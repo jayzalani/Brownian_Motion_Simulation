@@ -54,7 +54,7 @@ This will:
 
 The following GIF shows the robot's movement pattern:![brownian_motion](https://github.com/user-attachments/assets/53f8eeaa-f804-48b4-9890-63aaa5d5c09b)
 
-Go to exampleOutput which contains a one more example gif of this simulation 
+### If this does not load then go to exampleOutput which contains a one more example gif of this simulation 
 
 
 ## Features
